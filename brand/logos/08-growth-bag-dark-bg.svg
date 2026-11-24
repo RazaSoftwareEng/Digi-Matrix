@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 100 100" role="img" aria-label="Growth Bag mark"><defs>
+<linearGradient id="m7d512-b" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="100" y2="100"><stop offset="0" stop-color="#4F8BFF"/><stop offset="1" stop-color="#1534A3"/></linearGradient>
+<linearGradient id="m7d512-g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="100" y2="100"><stop offset="0" stop-color="#FFD772"/><stop offset="1" stop-color="#D48A0B"/></linearGradient>
+<linearGradient id="m7d512-n" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="100" y2="100"><stop offset="0" stop-color="#1F478F"/><stop offset="1" stop-color="#0A1D45"/></linearGradient>
+<linearGradient id="m7d512-h" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="100" y2="0"><stop offset="0" stop-color="#3D7BFF"/><stop offset="1" stop-color="#F2B02A"/></linearGradient>
+<radialGradient id="m7d512-r" cx="38" cy="32" r="62" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#5E97FF"/><stop offset=".55" stop-color="#1F4CC4"/><stop offset="1" stop-color="#0B2160"/></radialGradient>
+<filter id="m7d512-s" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="2.5" stdDeviation="2.5" flood-color="#0A1D45" flood-opacity=".28"/></filter>
+<filter id="m7d512-glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4"/></filter>
+<clipPath id="m7d512-c"><circle cx="50" cy="50" r="44"/></clipPath>
+</defs><path d="M34 34 V27 a16 16 0 0 1 32 0 V34" fill="none" stroke="url(#m7d512-g)" stroke-width="7" stroke-linecap="round"/>
+<path d="M18 32 H82 L86 82 a10 10 0 0 1 -10 11 H24 a10 10 0 0 1 -10 -11 Z" fill="url(#m7d512-b)" filter="url(#m7d512-s)"/>
+<polyline points="30,76 44,62 54,70 69,53" fill="none" stroke="#F5F1E6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="77,44 75.5,56.5 64.5,46.5" fill="url(#m7d512-g)" stroke="#F2B02A" stroke-width="2.5" stroke-linejoin="round"/></svg>

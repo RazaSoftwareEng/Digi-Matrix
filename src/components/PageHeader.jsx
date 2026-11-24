@@ -1,0 +1,12 @@
+export default function PageHeader({ eyebrow, title, text, children }) {
+  return (
+    <section className="page-header">
+      <div className="container">
+        {eyebrow && <span className="eyebrow">{eyebrow}</span>}
+        <h1>{title}</h1>
+        {text && <p className="lead">{text}</p>}
+        {children}
+      </div>
+    </section>
+  )
+}
