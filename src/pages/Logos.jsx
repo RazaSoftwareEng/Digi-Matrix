@@ -87,7 +87,7 @@ export default function Logos() {
           <span className="lg-eyebrow">Brand identity · Logo exploration</span>
           <h1>Digi Matrix <span>Logo Concepts</span></h1>
           <p>
-            Fourteen directions for an e-commerce, digital marketing and AI academy. Every concept shows the main
+            {logoConcepts.length} directions for an e-commerce, digital marketing and AI academy. Every concept shows the main
             logo, an app icon, a version on the opposite background, and a favicon, so you can judge how it works at every size.
           </p>
           <div className="lg-palette">
@@ -106,7 +106,7 @@ export default function Logos() {
         <div className="lg-toolbar__actions">
           <span className="lg-count">{picked.length} shortlisted</span>
           <button type="button" className="lg-filter" onClick={() => setOnlyPicked((v) => !v)} aria-pressed={onlyPicked} disabled={!picked.length && !onlyPicked}>
-            {onlyPicked ? 'Show all 14' : 'Show shortlist only'}
+            {onlyPicked ? `Show all ${logoConcepts.length}` : 'Show shortlist only'}
           </button>
         </div>
       </section>

@@ -3,6 +3,8 @@
 <linearGradient id="m10l512-g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="100" y2="100"><stop offset="0" stop-color="#FFD772"/><stop offset="1" stop-color="#D48A0B"/></linearGradient>
 <linearGradient id="m10l512-n" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="100" y2="100"><stop offset="0" stop-color="#1F478F"/><stop offset="1" stop-color="#0A1D45"/></linearGradient>
 <linearGradient id="m10l512-h" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="100" y2="0"><stop offset="0" stop-color="#3D7BFF"/><stop offset="1" stop-color="#F2B02A"/></linearGradient>
+<linearGradient id="m10l512-d" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="100" y2="100"><stop offset="0" stop-color="#D6900F"/><stop offset="1" stop-color="#8F5A06"/></linearGradient>
+<linearGradient id="m10l512-v" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="100"><stop offset="0" stop-color="#3D7BFF"/><stop offset="1" stop-color="#F2B02A"/></linearGradient>
 <radialGradient id="m10l512-r" cx="38" cy="32" r="62" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#5E97FF"/><stop offset=".55" stop-color="#1F4CC4"/><stop offset="1" stop-color="#0B2160"/></radialGradient>
 <filter id="m10l512-s" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="2.5" stdDeviation="2.5" flood-color="#0A1D45" flood-opacity=".28"/></filter>
 <filter id="m10l512-glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4"/></filter>

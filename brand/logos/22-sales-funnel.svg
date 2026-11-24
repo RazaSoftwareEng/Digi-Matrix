@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 100 100" role="img" aria-label="Sales Funnel mark"><defs>
+<linearGradient id="m21l512-b" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="100" y2="100"><stop offset="0" stop-color="#4F8BFF"/><stop offset="1" stop-color="#1534A3"/></linearGradient>
+<linearGradient id="m21l512-g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="100" y2="100"><stop offset="0" stop-color="#FFD772"/><stop offset="1" stop-color="#D48A0B"/></linearGradient>
+<linearGradient id="m21l512-n" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="100" y2="100"><stop offset="0" stop-color="#1F478F"/><stop offset="1" stop-color="#0A1D45"/></linearGradient>
+<linearGradient id="m21l512-h" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="100" y2="0"><stop offset="0" stop-color="#3D7BFF"/><stop offset="1" stop-color="#F2B02A"/></linearGradient>
+<linearGradient id="m21l512-d" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="100" y2="100"><stop offset="0" stop-color="#D6900F"/><stop offset="1" stop-color="#8F5A06"/></linearGradient>
+<linearGradient id="m21l512-v" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="100"><stop offset="0" stop-color="#3D7BFF"/><stop offset="1" stop-color="#F2B02A"/></linearGradient>
+<radialGradient id="m21l512-r" cx="38" cy="32" r="62" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#5E97FF"/><stop offset=".55" stop-color="#1F4CC4"/><stop offset="1" stop-color="#0B2160"/></radialGradient>
+<filter id="m21l512-s" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="2.5" stdDeviation="2.5" flood-color="#0A1D45" flood-opacity=".28"/></filter>
+<filter id="m21l512-glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4"/></filter>
+<clipPath id="m21l512-c"><circle cx="50" cy="50" r="44"/></clipPath>
+</defs><g filter="url(#m21l512-s)">
+<path d="M14 12 H86 a4 4 0 0 1 3.4 6 L80 33 H20 L10.6 18 A4 4 0 0 1 14 12Z" fill="url(#m21l512-b)" opacity=".55"/>
+<path d="M23 39 H77 L68 55 H32 Z" fill="url(#m21l512-b)"/>
+<path d="M35 61 H65 L58 73 H42 Z" fill="url(#m21l512-n)"/>
+<circle cx="50" cy="87" r="9" fill="url(#m21l512-g)"/></g>
+<path d="M50 82.5 V91.5 M46.5 87 H53.5" stroke="#8F5A06" stroke-width="2" stroke-linecap="round"/></svg>

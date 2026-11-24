@@ -16,6 +16,16 @@ export const logoConcepts = [
   { id: '12-global-orbit', name: 'Global Orbit', bg: 'cream', word: 'split', note: 'A shaded globe with a gold orbit: global marketplaces, one academy.' },
   { id: '13-growth-pillars', name: 'Growth Pillars', bg: 'navy', word: 'split', note: 'Three rising pillars, one per stage: learn, sell, scale.' },
   { id: '14-matrix-gem', name: 'Matrix Gem', bg: 'white', word: 'caps', note: 'Four diamond facets arranged as a gem. Feels premium and timeless.' },
+  { id: '15-infinity-loop', name: 'Infinity Loop', bg: 'navy', word: 'split', note: 'A blue-to-gold infinity ribbon for continuous learning and growth that keeps compounding.' },
+  { id: '16-skill-stack', name: 'Skill Stack', bg: 'cream', word: 'caps', note: 'Three isometric layers, one skill on top of another, with mustard as the top level.' },
+  { id: '17-launch-rocket', name: 'Launch Rocket', bg: 'navy', word: 'split', note: 'A sleek rocket for launching stores, products and careers. Energetic and hopeful.' },
+  { id: '18-bullseye', name: 'Bullseye', bg: 'white', word: 'split', note: 'A dart hitting the centre: targeted ads, measurable results.' },
+  { id: '19-honeycomb', name: 'Honeycomb', bg: 'cream', word: 'lower', note: 'Seven hexagon cells working as one hive: a community of sellers, with gold cells for success.' },
+  { id: '20-smart-chat', name: 'Smart Chat', bg: 'navy', word: 'caps', note: 'A speech bubble with a thinking cursor, for AI assistants, support and client conversations.' },
+  { id: '21-folded-m', name: 'Folded M', bg: 'white', word: 'split', note: 'An origami-style M folded from a single ribbon: crafted, precise, premium.' },
+  { id: '22-sales-funnel', name: 'Sales Funnel', bg: 'cream', word: 'split', note: 'A funnel that turns traffic into a gold coin. Says conversions straight away.' },
+  { id: '23-unlock-key', name: 'Unlock Key', bg: 'navy', word: 'caps', note: 'A key with pixel-matrix teeth: Digi Matrix unlocks the skills to earn online.' },
+  { id: '24-north-star', name: 'North Star', bg: 'white', word: 'split', note: 'A faceted compass star with a gold north point: clear direction and mentorship to your goal.' },
 ]
 
 export const brandPalette = [

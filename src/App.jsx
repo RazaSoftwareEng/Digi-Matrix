@@ -31,6 +31,7 @@ export default function App() {
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/logos" element={<Logos />} />
+          <Route path="/logo" element={<Logos />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </main>
