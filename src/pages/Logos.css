@@ -75,7 +75,17 @@
 .lg-downloads a { font-size: 13px; font-weight: 600; color: #2457D6; text-decoration: underline; text-underline-offset: 3px; }
 .lg-downloads a:hover { color: #0F2B5B; }
 
+@media (max-width: 560px) {
+  .lg-row { flex-wrap: wrap; justify-content: space-between; row-gap: 14px; }
+  .lg-grow { order: -1; flex: 0 0 100%; }
+  .lg-row figure:not(.lg-grow) { flex: 1; }
+  .lg-row figure:not(.lg-grow) .lg-tile { width: 100%; }
+  .lg-tile--app img { width: 48px; height: 48px; }
+}
+
 @media (max-width: 520px) {
   .lg-hero { height: 280px; }
+  .lg-hero > img { width: 112px; height: 112px; }
+  .lg-hero .lg-wm { max-width: 100%; }
   .lg-meta { flex-direction: column; }
 }
